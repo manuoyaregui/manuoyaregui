@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Full Stack Web Dev<br><br>🇦🇷 - I know Spanish(native) and English(B1-B2)<br><br>🔭 I’m currently working on Redesigning my Portfolio, using vanilla HTML, CSS, JS.<br>👯 I’m looking to get my first dev work<br>🌱 I’m currently mastering CSS, and I'm looking to learn React.Js in the near future.<br>
+😎 Full Stack Web Dev<br><br>🇦🇷 - I know Spanish(native) and English(B1-B2)<br><br>🔭 I’m currently working on Redesigning my Portfolio, using vanilla HTML, CSS, JS.<br>👯 I'm currently working as a FrontEnd Web Developer, using mainly React and React Native.
 
 
 ## 🌐 Socials:
